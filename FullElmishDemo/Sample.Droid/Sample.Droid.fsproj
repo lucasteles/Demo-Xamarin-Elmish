@@ -21,8 +21,8 @@
     <Name>Sample.Droid</Name>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <SelectedDevice>my_device</SelectedDevice>
-    <DefaultDevice>my_device</DefaultDevice>
+    <SelectedDevice>Nexus_5X_API_26</SelectedDevice>
+    <DefaultDevice>Nexus_5X_API_26</DefaultDevice>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
